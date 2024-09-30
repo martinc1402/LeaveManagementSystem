@@ -28,3 +28,4 @@
 /Users/martincasey/Desktop/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net8.0/LeaveManagementSystem.pdb
 /Users/martincasey/Desktop/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net8.0/LeaveManagementSystem.genruntimeconfig.cache
 /Users/martincasey/Desktop/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net8.0/ref/LeaveManagementSystem.dll
+/Users/martincasey/Desktop/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net8.0/LeaveManagementSystem.sourcelink.json
